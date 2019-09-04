@@ -1,6 +1,9 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-image: url("kqke_edit.png");
+  background-repeat: no-repeat;
+  background-position: center top;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
