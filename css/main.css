@@ -52,8 +52,8 @@ ul.posts li {
     }
 
 .resize_fit_center {
-    max-width:100%;
-    max-height:100%;
+    max-width:70%;
+    max-height:70%;
     vertical-align: middle;
 }
 
