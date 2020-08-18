@@ -4,5 +4,5 @@
 }
 .block {
   width: 100px;
-  float: left;
+  float: inline-block;
 }
