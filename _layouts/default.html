@@ -4,8 +4,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>Carl Veksler</title>
-
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="/style.css">
+    
     <meta name="viewport" content="width=device-width">
 
   </head>
@@ -13,7 +16,7 @@
     <div class="wrapper">
       <header>
         <h1>Carl Veksler</h1>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p>CS Graduate</p>
 
         <a href="http://molpopgen.github.io/fwdpp">Home</a>
         <br>
@@ -42,9 +45,11 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
+        <div class="row">
+          <div class="block"><a href="https://github.com/kqke" target="_blank"><i class="fa fa-github"></i></a></div>
+          <div class="block"><a href="https://www.linkedin.com/in/cveksler" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
+          <div class="block"><a href="mailto: cveksler@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a></div>
+        </div>
         <p><small>Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
