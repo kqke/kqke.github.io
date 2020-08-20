@@ -6,7 +6,7 @@
 
 ## Projects
 
-##### Reliability in Distributed Systems
+#### Reliability in Distributed Systems
 
-##### Slither AI
+#### Slither AI
 
