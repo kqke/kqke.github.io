@@ -1,12 +1,12 @@
-#About
+# About
 
-#Education
+# Education
 
 **The Hebrew University of Jerusalem** B.Sc. in Computer Science
 
-#Projects
+# Projects
 
-#####Reliability in Distributed Systems
+##### Reliability in Distributed Systems
 
-#####Slither AI
+##### Slither AI
 
