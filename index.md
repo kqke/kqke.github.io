@@ -1,7 +1,7 @@
 ## About
 
-Hi! My name is Carl.
-I'm interested in cryptography, distributed systems, and machine learning.
+* Hi! My name is Carl.
+* I'm interested in cryptography, distributed systems, and machine learning.
 
 ## Education
 
