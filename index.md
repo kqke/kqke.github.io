@@ -5,7 +5,8 @@ text
 
 ## Education
 
-* **The Hebrew University of Jerusalem** B.Sc. in Computer Science
+* **The Hebrew University of Jerusalem** 
+B.Sc. in Computer Science
 * Add more space under here
 
 ## Projects
