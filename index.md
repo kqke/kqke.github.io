@@ -10,8 +10,8 @@
 
 ## Projects
 
-* **Reliability in Distributed Systems**
+* [**Reliability in Distributed Systems**](https://github.com/kqke/RIDS)
 * Implementation of a distributed agreement algorithm between n>=2f+1 nodes, able to withstand an adversary of size f capable of causing omission failures.   
   
-* **Slither AI**
+* [**Slither AI**](https://github.com/kqke/AI_slither)
 * Implementation of agents using deep Q-Learning (simple neural network and convolutional neural network), for a simplified version of the game 'Slither'
