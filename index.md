@@ -1,7 +1,7 @@
 ## About
 
 * Hi! My name is Carl.
-* I'm a recent CS graduate and interested in developing in the fields of cryptography, distributed systems, and machine learning.
+* I'm a recent CS graduate, looking to develop my skills and knowledge in the fields of cryptography, distributed systems, and machine learning.
 
 ## Education
 
